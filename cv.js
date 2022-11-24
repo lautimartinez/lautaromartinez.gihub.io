@@ -65,11 +65,8 @@ class UI {
                 Hi!</br></br>
                 This repository contains my background, education, certifications, trainings, and hobbies. </br></br>
                 Here more links:</br>
-                <a href="https://www.linkedin.com/in/marianonamoroso"> linkedin </a></br>
-                <a href="https://github.com/marianonamoroso"> github </a></br>
-                <a href="https://twitter.com/MarianAmoroso"> twitter </a></br>
-		<a href="https://hub.docker.com/u/agocho"> dockerhub </a></br>
-		
+                <a href="https://www.linkedin.com/in/lautaro-martinez/"> linkedin </a></br>
+                <a href="https://github.com/lautimartinez"> github </a></br>
             </div>
             `;
             cvlist.appendChild(element);
